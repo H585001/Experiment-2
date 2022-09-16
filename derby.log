@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Sep 16 17:46:14 CEST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0183-46fa-a2fa-000004868600 
+on database directory C:\Users\simon\master-workspace-1\dat250-jpa-example-master\dat250-jpa-example-master\eclipselink\experiment-2\db\experiment2 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@659e0bfd 
+Loaded from file:/C:/Users/simon/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.4.1+1-LTS-2
+user.dir=C:\Users\simon\master-workspace-1\dat250-jpa-example-master\dat250-jpa-example-master\eclipselink\experiment-2
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
